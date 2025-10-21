@@ -1,10 +1,17 @@
 Highlights & Device Specific Changes:
 Build type: Official
 Device: veux
-Device maintainer: MrTopiA
+Device maintainer: Romeo
 
 Highlights & Device Specific Changes:
 ====================================
+# 21 Oct, 2025
+
+* Fix Leica
+* tes ota
+* Support KSU Next
+
+
  # 12 August 2024
 - Dropped ViPER
 - Implement Lineage Health HAL
