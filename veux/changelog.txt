@@ -5,4 +5,4 @@ Device maintainer: Romeo
 
 Highlights & Device Specific Changes:
 ====================================
-
+- Test OTA 

@@ -1,17 +1,17 @@
 {
     "response": [
         {
-            "maintainer": "Romeo",
-            "oem": "Xiaomi",
+            "maintainer": "romeo",
+            "oem": "Redmi",
             "device": "Redmi Note 11 Pro 5G",
             "version": "8.1",
             "codename": "happiness",
-            "filename": "AfterlifeOS_veux-8.1-happiness-official_20251021-vanilla.zip",
-            "download": "https://store10.gofile.io/download/web/f7e92c87-d2b4-4c4e-a738-5ce4975ff40a/AfterlifeOS_veux-8.1-happiness-official_20251021-vanilla.zip",
-            "timestamp": 1761049824,
-            "md5": "4f689e646fb864d88215ecfd6f33d382",
-            "sha256": "d275e932ac65e1e413351b991cfb37274bfe9f5fd9e8b75ffe69f1912b2b773b",
-            "size": 1403082499,
+            "filename": "AfterlifeOS_veux-8.1-happiness-official_20251117-vanilla.zip",
+            "download": "https://pixeldrain.com/api/file/JaT6BvTJ?download",
+            "timestamp": 1763395687,
+            "md5": "0aeaeb10c4100bf9441af523c332b623",
+            "sha256": "bd39071bd79f9c0ba766326a8e7364ff835810c5335c34fa0d57fe0bc98df3eb",
+            "size": 1436676273,
             "buildtype": "OFFICIAL",
             "forum": "",
             "telegram": ""
